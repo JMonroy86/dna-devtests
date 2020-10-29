@@ -12,7 +12,7 @@ const UsersReg = () => {
           <div className="container">
             <div className="row">
               <div className="col-md-12 pt-5">
-                <h3>Wellcome {store.currentUser.name}  {store.currentUser.lastname}</h3>
+                <h3>Welcome {store.currentUser.name}  {store.currentUser.lastname}</h3>
               </div>
             </div>
             <div className="row pt-5">
